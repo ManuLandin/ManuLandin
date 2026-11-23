@@ -68,4 +68,4 @@ as an academic team project.
 ## Connect With Me
 
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/)
-- Email: [Contact me](juanmanuellandinromo@gmail.com)
+- Email: [Contact me](mailto:juanmanuellandinromo@gmail.com)
